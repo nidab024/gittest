@@ -1,0 +1,3 @@
+First branch conflict file:
+This content will conflict with main branch
+algorithms data-structures programming-patterns
