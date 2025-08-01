@@ -1,2 +1,2 @@
 main local commit
-First branch conflicting changes: orginal second technology
+First branch conflicting changes: gandu this is orinal main
